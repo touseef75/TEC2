@@ -47,22 +47,19 @@ img.addEventListener("click",function(){
         e1.innerHTML = "Mouth";
         num = 2;
     }else if(num == 2){
-        e2.innerHTML = "Pharynx";
+        e2.innerHTML = "Food";
         num = 3;
     }else if(num == 3){
-        e3.innerHTML = "Oesophagus";
+        e3.innerHTML = "Wastes";
         num = 4;
     }else if(num == 4){
-        e4.innerHTML = "Calciferous glands";
+        e4.innerHTML = "Tentacle";
         num = 5;
     }else if(num == 5){
-        e5.innerHTML = "Crop";
+        e5.innerHTML = "Body stalk";
         num = 6;
     }else if(num == 6){
-        e6.innerHTML = "Gizzard";
+        e6.innerHTML = "Gastrovascular cavity";
         num = 7;
-    }else if(num == 7){
-        e7.innerHTML = "Intestine";
-        num = 8;
     }
 })
