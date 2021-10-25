@@ -47,7 +47,7 @@ img.addEventListener("click",function(){
         e1.innerHTML = "Mouth";
         num = 2;
     }else if(num == 2){
-        e2.innerHTML = "Food";
+        e2.innerHTML = "Gut";
         num = 3;
     }else if(num == 3){
         e3.innerHTML = "Wastes";
